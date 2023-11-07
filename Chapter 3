@@ -1,6 +1,11 @@
 -----CHAPTER 3: Create your Custom Fruit's Profile-----
-1.
-2.
-3.
-4.
-5.
+1.Now, Open the "Button/UI" folder on the bottom right of the screen
+2.Scroll down untill you see the "Rolling a Fruit" sprite, click on it
+3.now, youll see a bunch of codes, its pretty complicated to beginners like YOU (probably)
+4.Click the "Costumes" tab on the top left of the screen
+5.Now, Scroll ALL THE WAY to the bottom (left side of the screen)
+6.Ignore the "Press Q" sprite, look up, youll see a Sprite
+7.Right click on it, press "Duplicate"
+7.5.Now. you can use simple Fruit's Shape like Ice or Control, but when you duplicated it, you must move it above the "Press Q" sprite
+8.Delete all of the Fruits surroundings, except the back panel, the Fruit Shape, the Fruit's Veins and the text (EX: Fire: Rare, Control: Epic)
+9.Now, you can draw your Custom Fruit
