@@ -1,4 +1,4 @@
------Chapter 5: Create your Custom Fruit's Skill
+-----Chapter 5: Create your Custom Fruit's Skill-----
 1.Now, this is the hardest chapter, beware because it needs SKILLS of programming to do it
 2.Well, to do it, you need to follow the Template Skill's sprite
 3.Now, its time for some Usual Beginners Mistakes/Error:
@@ -7,4 +7,5 @@ for example, sound fruit is 18, but when you create a fruit, set an id for it, i
 -check every skill if its the same as the last fruit if it is, then change it 
 i recomended for all of you to set the id to high value, such as 12318 or 12831,...
 do it so the fruit's id dosent be the same as other or else it may cause multiskills, overlapping skills, OP fruits (which is the worst)
-then youll copy the project, then add it to my studio
+then youll copy the project, then add it to my studio, here is my studio: https://scratch.mit.edu/studios/34170571/
+once you done, you can sit and enjoy your project
